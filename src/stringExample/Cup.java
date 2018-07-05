@@ -12,7 +12,7 @@ public class Cup{
 
         System.out.println(str1.compareTo(str2));
 
-        //char array
+        //char array 2345678
         char[] helloArray = {'h', 'e', 'l', 'l', 'o'};
         String helloString = new String(helloArray);
 
